@@ -1,7 +1,9 @@
 # Pertemuan 9 - List dan Pengolahan Data Numerik
 
 **Nama:** Indah Palupi Kusumaningrum
+
 **NIM:** 2225250212
+
 **Kelas:** 3F
 
 ## 1. Tujuan
